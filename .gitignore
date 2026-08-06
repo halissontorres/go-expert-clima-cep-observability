@@ -24,6 +24,10 @@ profile.cov
 go.work
 go.work.sum
 
+# Compiled binaries
+service-a/service-a
+service-b/service-b
+
 # env file
 .env
 
